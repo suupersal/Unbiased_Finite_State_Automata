@@ -1,0 +1,4 @@
+How to run this awesome program:
+1. At the comand prompt or terminal navigate to the folder "Salvador_proj1"
+2. Once in that directory type the comand: javac proj1.java
+3. The program has now compiled. To run program type: java proj1
